@@ -1,0 +1,119 @@
+
+
+===== SHEET 1: Venta Insumos =====
+Circuito General de Venta (1) | ↓ | Continua Paso debajo
+ |  |  | P. Comercial | P. Contable | P. Física | 3000 Registros Agroleben | ↓↓ | Continua en paralelo
+Pedido de Venta | ↓ | 100 | Unico | Separa precio, financiamiento y logistica
+Autorización Comercial | 1 | ↓ | Unico
+Autorización Financiera | 2 | ↓ | Unico
+Autorización General | 1+2 | ↓ | Unico
+Factura de Venta | ↓ | 100 | Venta Propia | Separa precio, financiamiento y logistica en la contabilidad
+Solicitud de Despacho | ↓↓ | Unica
+Autorización de Despacho | ↓↓ | Unica
+Orden de Despacho | ↓↓ | Unica
+Remito de Venta | ↓ | 100 | Unica
+R. Devolución |  | ↓ |  |  | -10 | Unica | Si ocurre esto, queda pendiente de remitir.
+Solicitud Nota Credito | ↓ | Venta Propia
+Autorización Comercial | ↓ | -10 | Unica
+Nota de Credito | ↓ | -10 | Unica
+Circuito General de Venta (Cuenta y Orden)
+ |  |  | P. Comercial | P. Contable | P. Física
+Pedido de Venta | ↓ | 100 | Unico
+Autorización Comercial | 1 | ↓ | Unico
+Autorización Financiera | 2 | ↓ | Unico
+Autorización General | 1+2 | ↓ | Unico
+Factura de Venta | ↓ | 100 | Cuenta y Orden | Separa precio, financiamiento y logistica en la contabilidad
+Inicia Liquido Producto | ↓↓↓ | Cuenta y Orden | Participa en un nuevo circuito con las OC de Cuenta  y Orden
+Solicitud de Despacho | ↓↓ | Unico
+Autorización de Despacho | ↓↓ | Unico
+Orden de Despacho | ↓↓ | Unico
+Remito de Venta | ↓ | 100 | Unico
+R. Devolución |  | ↓ |  |  | -10 | Unico
+Solicitud Nota Credito | ↓ | Unico
+Autorización Comercial | ↓ | -10 | Unico
+Nota de Credito | ↓ | -10 | Cuenta y Orden
+Inicia Liquido Producto | ↓↓↓ | Cuenta y Orden | Participa en un nuevo circuito con las OC de Cuenta  y Orden
+Circuito General de Venta (2) | a validar con Agustín/Diego Martinez: o arrancar de PDESPACHO |  |  |  | 
+ |  |  | P. Comercial | P. Contable | P. Física | 4000 Registros Agroleben
+Pedido de Despacho |  |  |  | que pasa cuando no tengo precio para ese pedido??  | 
+Remito de Venta | ↓ | 100
+Pedido de Venta | ↓ | 100
+Autorización Comercial | 1 | ↓
+Autorización Financiera | 2 | ↓
+Autorización General | 1+2 | ↓
+Factura de Venta | ↓ | 100
+R. Devolución |  | ↓ |  |  | -10 | Si ocurre esto, queda pendiente de remitir.
+Solicitud Nota Credito | ↓
+Autorización Comercial | ↓ | -10
+Nota de Credito | ↓ | -10
+
+
+===== SHEET 2: EJ WORKFLOW =====
+ |  |  | P. Comercial | P. Contable | P. Física
+Pedido de Venta |  | ↓ | 100 | Unico
+Autorización Comercial | 1 | ↓ | Unico
+Autorización Financiera | 2 | ↓ | Unico
+Autorización General | 1+2 | ↓ | Unico
+Factura de Venta |  | ↓ | 100 | Venta Propia
+Solicitud de Despacho |  | ↓↓ | Unica
+Autorización de Despacho |  | ↓↓ | Unica
+Orden de Despacho |  | ↓↓ | Unica
+Remito de Venta |  | ↓ | 100 | Unica
+R. Devolución |  | ↓ |  |  | -10 | Unica
+Solicitud Nota Credito |  | ↓ | Venta Propia
+Autorización Comercial |  | ↓ | -10 | Unica
+Nota de Credito |  | ↓ | -10 | Unica
+ |  |  |  |  |  |  |  |  | 
+Comercial |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Finanzas |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Gerencia |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Administración |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Depósito |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Comercial |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Finanzas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Gerencia |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Administración |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Depósito |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+===== SHEET 3: Modelo =====
+
+
+===== SHEET 4: Compra Insumos =====
+Compra
+
+
+===== SHEET 5: Transferencia =====
+Orden Despacho - Transferencia | Datos del Flete
+Remito Transferencia
+Recepció Remito
+Factura Flete
+
+
+===== SHEET 6: Facturación Directa =====
+P. Comercial | P. Contable | P. Física | P. Directa
+Factura Venta Directa | 100
+Remito Recepción (Agrobayer SRL) | 100
+Despacho Mercaderia (Cliente) | -100

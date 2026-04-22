@@ -1,0 +1,112 @@
+
+
+========= Compra Insumos Lartirigoyen.pdf =========
+1-Compra pendiente de Autorización Rechazar Compra
+7-Compra No Autorizada
+2-Compra Autorizada
+4-Compra facturada Pendiente de recibir
+Autorización General Compra
+Modificar Compra o
+Reversión de Autorización/Rechazo	Modificar Compra o
+Reversión de Autorización/Rechazo
+8-Compra
+Rechazada
+Anular Compra (ANUOC)
+Anular Compra (ANUOC)
+Anular Compra (ANUOC)
+Recibir Compra (REM) Facturar Compra (FAC)
+3- Compra recibida pendiente de factura
+5- Compra
+Finalizada con
+Facturación
+Facturar Compra (FAC) Recibir Compra (REM)
+Nota de Crédito (NCR)
+Devolver Compra (RDE)
+Registrar Compra (OC)
+6- Compra
+Finalizada con
+entrega
+Devolver compra (RDE)
+Nota de Crédito Compra (NCR)
+Liquida Cuenta y orden (LIQTER)
+Reversión Liquidación Cuenta y orden (REVLQTER)
+Reversión Liquidación Cuenta y orden (REVLQTER)
+
+-- 1 of 1 --
+
+
+
+========= Venta Directa Lartirigoyen.pdf =========
+3-Recepción Finalizada
+1- Pendiente de entregar a Cliente
+4-Entrega Finalizada
+Devolver Compra (RDE)
+1-Pendiente de Recibir Remito Proveedor
+Registrar Factura de Vta Directa Bayer (FACVDB) Registrar Factura de Vta Directa Bayer (FACVDB)
+Recibir Remito (REM) Entregar Venta (REM)
+Devolver Venta (RDE)
+4- Venta Directa Finalizada 4- Venta Directa Finalizada
+Nota de Crédito Venta Directa (NCVDB) Nota de Crédito Venta Directa (NCVDB)
+
+-- 1 of 1 --
+
+
+
+========= Venta Insumos Lartirigoyen.pdf =========
+1 - Venta Pendiente de Autorizar Rechazar Venta
+6 - Venta No Autorizada
+2 - Venta Autorizada (Comercial)
+3 - Venta Autorizada Pendiente de Facturar
+Autorizar Comercial Modificar venta
+Modificar Venta 15 - Venta
+anulada
+Anular Venta (ANUPED)
+Anular Venta (ANUPED)
+Anular Venta (ANUPED)
+Autorización Creditica
+7 - Venta entregada Pendiente de autorizar
+5 - Venta Finalizada
+Entregar Venta(REM)
+12 - Devolución pendiente de entrega o Solic. de NC
+Devolver Venta (RDE)
+13 - Solicitud de devolución pendiente de autorizar
+14 - Mercardería devuelta pendiente de nota de
+crédito
+Autorización de Nota de Crédito
+Nota de credito (NCR)
+Solicitud de Nota de Crédito (SNCR)
+10 - Solicitud de NC pendiente de Autorizar
+11 - Solicitud de NC Autorizada pendiente de emitir
+Autorización de Nota de Crédito
+Rechazar Solicitud
+Emisión de nota de crédito (NCR)
+Modificar Venta
+Facturar Venta (FAC/FACTER)
+4 - Venta Facturada Pendiente de entrega
+Registrar Venta (PED)
+Entregar Venta No autorizada (REMSF)
+Autorizar Comercial
+8 - Venta Entregada autorizada (Comercial)
+Autorización Creditica
+9 - Venta entregada Pendiente de Facturar
+Facturar Venta (FAC / FACTER)
+LOGISTICA
+Entregar Venta
+Anular Venta (ANUPED)
+Entregar Venta
+Solicitud de Nota de Crédito (SNCR)
+LOGISTICA
+Rechazo de Nota de Crédito
+Facturar Venta (FACTER)
+Facturar Venta (FACTER)
+Liquidación
+Cta y orden
+Rechazar Venta
+16 - Venta entregada con Rechazo
+Rechazar Venta
+Rechazar Venta
+Modificar Venta
+Modificar venta
+
+-- 1 of 1 --
+

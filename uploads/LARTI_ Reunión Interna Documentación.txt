@@ -1,0 +1,485 @@
+# LARTI: Reunión Interna Documentación
+
+  Meeting started: 16/4/2026, 14:01:07
+  Duration: 51 minutes
+  Participants: Alberto Galdeano, Eugenia Massip, Ignacio Carnevale, joaquin Martinez Navarro, Paula Garre
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/dZFygcbg8SoTVKRHoiyv?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Eugenia Massip: Hola Nacho cómo va No te escucho está muteado preparado, no te mueras que ya vuelvo a entrar Ya vuelvo.
+00:34 Ignacio Carnevale: Muy bien, vos.
+00:34 Eugenia Massip: Hola cómo va Bien, Cómo anda tu señora.
+00:41 Ignacio Carnevale: Bien, Ahora las en un ratito salimos para el médico Así que terminamos acá y
+00:45 Eugenia Massip: Oh genial
+00:47 Ignacio Carnevale: tengo que salir.
+00:48 Eugenia Massip: Sí sí, yo también y juaco me hizo poner una reunión a las 3 Así que vamos a ver si conseguimos puntualidad.
+00:58 Ignacio Carnevale: Hay que ver la gente que falta, no sé.
+01:00 Eugenia Massip: Sí mira un poco a las 12, no a las 11:30 estabas supuestamente saliendo de saladillo.
+01:08 Eugenia Massip: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI. https://tactiq.io/r/transcribing
+01:10 Eugenia Massip: Porque viajó tucumán llegó a las 3 de la mañana durmió por cañuelas, para teníamos una reunión Así que para hoy tuvo la reunión allá en saladillo en la oficina, pero bueno, no sé si salió horario Porque estaba Beto no sé.
+01:24 Ignacio Carnevale: Hablando al pedo ahora.
+01:25 Eugenia Massip: Sí por eso Me parece que debería tener ganas de llegar Estaba rentado tenía una cara pobre.
+01:35 Ignacio Carnevale: Qué pobre?
+01:42 Eugenia Massip: Para escucharme una cosa para justo Me compartieron. Habla, que yo le vengo hinchando los huevos a la gente de algoritmo es una cosa maravillosa y me mandan a mí.
+01:57 Ignacio Carnevale: Elegantemente tenés que evite decirle Che te acordás que te pedí esta información porque viste que ya se nos venció el plazo. Ahora tendríamos que
+02:03 Eugenia Massip: Sí, sí sí.
+02:09 Ignacio Carnevale: ver si podemos recuperar.
+02:18 Eugenia Massip: Enter code email, a ver si me mandaron un mail muy bien. Porque yo le pedí a esta gente de algoritmo que me comparta justo Me mandaron hace como dos semanas que me compartan los trámites que tenían armados ellos y me la acaban de compartir. Llegaste Qué bien, sentate tranquilo, no te escuchamos ahora sí.
+02:47 joaquin Martinez Navarro: Buenas, para qué estoy con un quilombo?
+02:50 Ignacio Carnevale: Qué pasó.
+02:52 joaquin Martinez Navarro: La compu no, no puedo acceder a mi compu.
+02:56 Ignacio Carnevale: Cómo no puedes.
+02:58 joaquin Martinez Navarro: O sea si le pongo es con huella viste si le pongo una huella no me la reconoce Y si le pongo para ingresar con la clave las letras no me andan los números. Me andan por las letras no se les ocurre.
+03:11 Eugenia Massip: Como que te desconfiguró el teclado.
+03:15 joaquin Martinez Navarro: claro
+03:16 Ignacio Carnevale: Escúchame una cosa, la reiniciaste Esa computadora. La tuviste prendida todo el
+03:17 joaquin Martinez Navarro: sí
+03:20 Ignacio Carnevale: tiempo.
+03:21 joaquin Martinez Navarro: la reinicié
+03:23 Ignacio Carnevale: No porque si le hace un apagado forzado que es mantener apretado el botón 20 segundos una cosa, así que parece que le está poniendo una almohada en la cabeza, pero le forzaje el apagado Me estaba hablando.
+03:35 Eugenia Massip: sí A veces funciona.
+03:41 joaquin Martinez Navarro: Ahí le pruebo.
+03:42 Ignacio Carnevale: no
+03:43 joaquin Martinez Navarro: Mantengo apretado hasta que se apague ahí murió.
+03:48 Ignacio Carnevale: Pero mira que se tiene que apagar no bloquear.
+03:51 joaquin Martinez Navarro: Sí sí, Perfecto ahí se se apagó la luz blanca. Sí tiene una luz al lado del botón.
+03:56 Ignacio Carnevale: Entonces ahora volvés a arrancarla y a lo mejor había un tema ahí de y si no es algún tema de configuración de la placa o algo del bios que tendrías que buscar Cómo acceder de manera segura o si no te animas se la tenés que llevar algún tema Yo soy de googlear y Buscar a ver la
+04:20 Eugenia Massip: la solución
+04:21 Ignacio Carnevale: pero
+04:22 joaquin Martinez Navarro: Ves el pin no me lo reconoce, hijo de p***.
+04:27 Ignacio Carnevale: Y es un tema del bios capaz que se quedó sin pila el lío o algo así.
+04:35 joaquin Martinez Navarro: Se les ocurre un botón que sea solo que anule las teclas.
+04:41 Ignacio Carnevale: Hola, beto.
+04:43 Eugenia Massip: Hola doctor
+04:43 Alberto Galdeano: Bueno qué te pasó no te anda el teclado
+04:46 joaquin Martinez Navarro: No me da el teclado.
+04:46 Eugenia Massip: Por favor, se le explotó la computadora.
+04:49 Alberto Galdeano: Me pasó una vez eso. Hay una Inteligencia artificial que te responde, pero no le podés escribir qué?
+05:00 Eugenia Massip: Te metieron un virus en saladillo, te metieron un virus en saladillo.
+05:01 joaquin Martinez Navarro: la punta madre loco no Además o sea, yo necesito Para no se les ocurre un botón que tenga la compu que anule las teclas porque
+05:15 Alberto Galdeano: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI. https://tactiq.io/r/transcribing
+05:15 joaquin Martinez Navarro: solo me pasa con las letras, no me pasa ni con los números ni con las claves.
+05:18 Alberto Galdeano: Mira párate para bloquear el teclado en Windows los métodos más rápidos suelen ser chip derecha sobre 8 segundos O control alt l, con lo cual se bloquea.
+05:37 joaquin Martinez Navarro: Y para desbloquear control.
+05:38 Alberto Galdeano: Desbloquear el teclado. Para no, eso es para bloquear. Vos tenés una Lenovo no.
+05:47 joaquin Martinez Navarro: l Sí yo tengo la Lenovo sin pad debe ser una pavada
+05:57 Eugenia Massip: segura
+06:03 joaquin Martinez Navarro: Entrando en crisis.
+06:06 Alberto Galdeano: apreta función la FN un ratito mantener apretada
+06:09 joaquin Martinez Navarro: sí
+06:14 Alberto Galdeano: función y después Bloqueo bloqueo está arriba, viste al lado de suprimir?
+06:27 joaquin Martinez Navarro: No, porque para yo tengo otro como yo tengo este teclado así. me
+06:46 Alberto Galdeano: Sí pero tenés el f2 f1, todos esos arriba o no?
+06:50 joaquin Martinez Navarro: Sí pero en suprimir lo tengo acá.
+06:53 Alberto Galdeano: A ver, haceme más sumo al lado del enter por ahí, no veo nada.
+06:59 joaquin Martinez Navarro: Como ahí ahí. Ves o para que le mando una foto?
+07:06 Ignacio Carnevale: la
+07:12 joaquin Martinez Navarro: Pero es raro que no me ande, yo siempre me saquearon porque no me anda la no me
+07:12 Alberto Galdeano: Pero sí, la pregunta de ese pueblo tiene el teclado, sí se puede desbloquear, sí.
+07:22 joaquin Martinez Navarro: anda la huella la use hasta recién me hackearon en simpleza corporations.
+07:24 Ignacio Carnevale: foto
+07:26 Paula Garre: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI. https://tactiq.io/r/transcribing
+07:30 Eugenia Massip: Yo te dije esa gente de no es de fiar.
+07:34 joaquin Martinez Navarro: Eres un botón de del orto. Ay no chicos, tengo a presentar una cosa ahora después esta reunión.
+07:44 Ignacio Carnevale: Bueno hay que presentar algo.
+07:47 Alberto Galdeano: una cosa tenés apretado funciones f11
+07:51 joaquin Martinez Navarro: función f11
+07:53 Ignacio Carnevale: No, no te enloquezca. Fue acostada Está todo todo tiene solución tranquilo.
+07:58 Eugenia Massip: Te llevo mi compu, si querés ya te salvé una vez.
+08:03 joaquin Martinez Navarro: Nada, sí, acá y otra compu, pero lo que pasa es que no no.
+08:08 Ignacio Carnevale: Le va a encontrar la vuelta tranqui.
+08:14 joaquin Martinez Navarro: Ay no quiero llorar boludo, la p*** madre que lo reparió.
+08:17 Ignacio Carnevale: Relajado algo que se hace el encuentra la vuelta, No pasa nada aparte.
+08:22 joaquin Martinez Navarro: Además, debe ser un para mí es un botón típico que son estas funciones especiales bueno. arranque perdón
+08:31 Ignacio Carnevale: Mos eso porque si no va a tener eso en la cabeza y si tenés que tener la otra reunión y en todo caso después más tarde tenemos la reunión esta.
+08:41 Alberto Galdeano: sí, Olvídate que
+08:48 Eugenia Massip: Para escuchar una cosa ustedes me piden que encuentre una hora en la agenda que
+08:48 joaquin Martinez Navarro: no
+08:52 Eugenia Massip: todos tengamos libre, vos sabes lo que me costó eso?
+08:56 joaquin Martinez Navarro: arranca euge vamos Dale
+08:57 Eugenia Massip: bueno
+08:58 Alberto Galdeano: Te debo una llamada a vos todavía desde las 10 de la mañana, imagínate.
+09:00 joaquin Martinez Navarro: Qué tenemos que hacer?
+09:03 Ignacio Carnevale: empatía nunca entró al grupo Dale
+09:05 Alberto Galdeano: No, no, jamás jamás.
+09:07 Eugenia Massip: Le llevo la computadora que no llores, Yo te la llevo.
+09:10 joaquin Martinez Navarro: No, no, uso la de luchi, lo que pasa que está renegas renegas, dale vamos, estoy contra reloj, vamos.
+09:17 Eugenia Massip: Bueno les cuento Acabo de recibir en este instante como él bloqueó todo yo acabo de recibir el link de los trámites de algoritmo lo que ellos armaron quieren que les comparta Sí porque
+09:27 joaquin Martinez Navarro: A ver, compartirlo.
+09:32 Eugenia Massip: Uno rompen todo y otros se encuentran soluciones. Gracias por dejarme plantada en una reunión es muy
+09:43 joaquin Martinez Navarro: Vos podés, yo sabía que vos podías.
+09:46 Paula Garre: A mí me pasó Exactamente lo mismo hoy con Alberto me dijo yo entro diez minutos tarde una hora tarde a la reunión.
+09:56 Alberto Galdeano: Vos agendaste mal hacerte cargo de la parte?
+09:58 Paula Garre: Y fue mi culpa Pero me hubiese dicho, no puedo, no puedo, no te preocupes 10
+10:02 Eugenia Massip: Por lo menos entró por lo menos.
+10:02 Paula Garre: minutos.
+10:03 joaquin Martinez Navarro: Yo no manejo lo que la agenda.
+10:08 Eugenia Massip: Yo escuchame tu agenda estaba libre.
+10:10 Ignacio Carnevale: Que yo no estoy siendo conflictivo Acá hay cuatro personas que están discutiendo entre sí. Yo no soy, me siento muy bien.
+10:17 Eugenia Massip: Muy rencoroso. Es el karma, por eso te pasó eso la computadora.
+10:25 Ignacio Carnevale: Lo dijiste lo pensaste.
+10:28 Eugenia Massip: Ay lo dije Bueno escúchenme algo acá. Esta gente me mandó, me compartió una carpeta donde están.
+10:36 Ignacio Carnevale: A través de del 365 y son archivos de vicio.
+10:43 Eugenia Massip: Los sí acá abrí uno.
+10:46 Ignacio Carnevale: Okay.
+10:46 joaquin Martinez Navarro: maestra que es la imagen de Ah Es horrible, Sí
+10:48 Ignacio Carnevale: Vos eso eso lo podrías imprimir en PDF vivir Aunque vos, no podrías guardar como que o imagen cualquiera Y si no puedes mandarlo.
+10:55 Eugenia Massip: A ver sí donadas. Acá, a ver si puedo. Pero lo guardo en el compartido en info recibida armo de algoritmo y lo guardo. Bueno esperen porque ahora
+11:13 Ignacio Carnevale: Pasaron cosas.
+11:15 Eugenia Massip: Sí el lunes en la reunión de trabajo, yo le comenté a elvio, de reunirnos o de ir capturando las pantallas para que tengamos las pantallas de cada uno de estos pasos que obviamente ustedes ni saben de qué se trata, pero para que sepan y me dijo sí Bueno lo hablamos lo que pasa es que todavía no logro poder, o sea la realidad es que no testearan nada, no? Entonces creo que un poco el tema de cambiar a una dinámica. Estamos planteando tener dos reuniones con algoritmo semanales con ellos, o sea, con el arte y los lunes nuestra reunión de trabajo, los miércoles seguramente sea los viernes por lo que me dijeron ellos que podían dos reuniones con el algoritmo un poco más breves un poco para empezar a engranar porque venimos a un ritmo.
+12:06 Eugenia Massip: Bastante bajo y tenemos como que todos que que salir a laburar viste. Y nada quería un poco, o sea, yo no la apuré a elvio, porque quería un poco que nosotros bajemos qué es lo que necesitamos para documentar, pero ya se lo anticipé el lunes y mi idea es volver a escribirle Quiero que sepas que elvio no me contesta los mensajes tenés que escribirle vos a vos, me decís que chateás con elvio, y yo le mando mensajes y no me contesta.
+12:35 joaquin Martinez Navarro: OK Pero por qué tema
+12:37 Eugenia Massip: No le mandé un montón de mensajes por un montón de temas.
+12:40 Alberto Galdeano: Pero no Por qué nos vamos un grupo con ellos.
+12:43 Eugenia Massip: Tenemos un grupo, pero yo le escribo por privado.
+12:45 Alberto Galdeano: No, pero escribirlo en el grupo.
+12:46 joaquin Martinez Navarro: Pero sí, pero armó otro grupo No eso armó un grupo de ugg que sean Juan
+12:47 Eugenia Massip: pero
+12:54 joaquin Martinez Navarro: hierro, elvio, Mati muro Beto vos y yo.
+13:02 Eugenia Massip: euge ha salido del grupo No mentira, sí lo voy a armar, Dale
+13:07 joaquin Martinez Navarro: Aquí en ese podemos tirar nada un grupo más operativo.
+13:12 Eugenia Massip: Sí, es más a ver ayer le escribía en medio de la reunión, no me contesta Juan me chatea el medio la rendió me tira tema me dice que este señor ni me contesta. Le pregunté lo de las autorizadas lo de los autorizadores que habíamos dicho a ver como para plantear algo para llevar mañana a la reunión. Y los maestros se lo apure por mail también.
+13:33 joaquin Martinez Navarro: Okay pero para Bien, pero temas para la reunión de hoy euge.
+13:39 Eugenia Massip: Sí, esto tenemos que ver qué diseño le vamos a dar a esto para ver qué
+13:42 joaquin Martinez Navarro: Perfecto, diseño bien un tema vos conmigo, hiciste un uno a mano alzada?
+13:43 Eugenia Massip: necesito yo. Lo voy guardando mientras. Sí ahí logró.
+13:52 joaquin Martinez Navarro: bien, eso se lo mandamos a los chicos o todavía no a Nacho y a Paula
+13:59 Eugenia Massip: no
+14:01 joaquin Martinez Navarro: Okay, Bueno por qué no vemos un Por qué no vemos un caso Nacho te parece que
+14:02 Eugenia Massip: Porque queríamos
+14:08 joaquin Martinez Navarro: veamos un caso en particular.
+14:11 Ignacio Carnevale: sí
+14:12 joaquin Martinez Navarro: O sea, tenemos.
+14:13 Eugenia Massip: dónde lo habíamos armado para
+14:16 joaquin Martinez Navarro: Tenemos el vicio, tenemos un Excel que armó euge y Tenemos uno que armó Beto más visual.
+14:23 Eugenia Massip: Estaba acá me parece
+14:24 joaquin Martinez Navarro: Por qué no le sentíamos un poco mejor las expectativas a Nacho y le explicamos y a Pau un caso compra de insumos. Ahí está esto es compra de insumos 90. Yo no veo nada porque no llego.
+14:48 Eugenia Massip: esto es una
+14:52 joaquin Martinez Navarro: A ver muéstrame lo que qué dice ahí.
+14:56 Eugenia Massip: pedido de venta autorización comercial
+14:59 joaquin Martinez Navarro: Perfecto, bien. Okay, va para abajo un segundo.
+14:59 Eugenia Massip: para
+15:05 joaquin Martinez Navarro: Okay entonces esto sería ese primer esa sección, estoy yendo un caso concreto, no Este es un no sé cómo se llaman es un escenario camino feliz no tiene retornos, para qué Para no enloquecernos los retornos están abajo. Esto sí sale todo bien, básicamente hay un pedido de venta que es un documento. Ese documento lo autoriza comercial lo autoriza financiera o puede haber un gerente general que autorice el pedido del que hace las dos autorizaciones al mismo tiempo.
+15:44 joaquin Martinez Navarro: Luego se factura que eso es un documento nuevo, no O sea autorizar algo, es cambiarlo de estado en cambio facturar es generar un documento nuevo y después hay una remisión. Tengo dudas sobre esa flecha euge. Yo no sé si a nivel sistema el remito queda enganchado a la factura o si el remito que enganchado al pedido esa línea la ponían en rojo.
+16:10 Alberto Galdeano: No pero en la lógica de ellos los trámites las acciones avanzan
+16:17 joaquin Martinez Navarro: tenés razón Bien.
+16:20 Alberto Galdeano: Está bien, digamos porque Avanza en el en el en la lógica de registración El remito va enganchado del pedido, pero en la lógica de ellos, el trámite va avanzando.
+16:34 Eugenia Massip: A ver si lo tengo acá Este lo tengo venta de insumos.
+16:38 joaquin Martinez Navarro: Es eso mismo lo que pasa es que no.
+16:39 Eugenia Massip: venta directa Venda, insumos es esto está relindo ahora picado, no me van a decir que no.
+16:43 joaquin Martinez Navarro: sí
+16:50 Eugenia Massip: Claro pues ellos ponen los estados, ves registro de pedido de venta estado venta pendiente de autorizar. entrega ventana autorizada
+17:05 Alberto Galdeano: Para seguir el camino para abajo.
+17:08 Ignacio Carnevale: Es el número es que tiene uno dos tres.
+17:12 Alberto Galdeano: Ese es el uno es el Caminito feliz que dijo joaco, venta pendiente autorizada autorizado o venta pendiente de autorización crediticia autorizado y si no vuelve para atrás se modifica bien. una vez que autorizaste Dale para abajo
+17:36 Ignacio Carnevale: Perdóname No yo me pregunto porque creo que tengo que entenderlo yo no.
+17:40 Eugenia Massip: Sí obvio
+17:40 joaquin Martinez Navarro: Sí, sí sí.
+17:42 Ignacio Carnevale: bien, venta pendiente autorizar
+17:45 Eugenia Massip: Es el estado.
+17:47 Ignacio Carnevale: Si venta está está autorizada. Y después venta está autorizada, pero está pendiente de facturar.
+17:55 Alberto Galdeano: andate un poquito de Eugenia volvé al tuyo porque me parece que
+17:57 Ignacio Carnevale: Perdóname quiero
+18:00 Eugenia Massip: sí
+18:01 Ignacio Carnevale: Terminar la pregunta puedo terminar la pregunta porque si no me quedo con quedó en la mitad perdido. Si está a la venta autorizada y está pendiente de facturar, no entiendo por qué vuelve a la venta pendiente autorizar No entendí eso.
+18:15 Eugenia Massip: porque Tienen dos autorizaciones comercial y crediticia en este caso El segundo paso es que está autorizada comercialmente Pero estaría todavía pendiente de autorizar crediticiamente.
+18:29 joaquin Martinez Navarro: No es Nacho no es porque esa autorización yo puedo autorizar o puedo rechazar Entonces si rechazo vuelve al pedido.
+18:41 Alberto Galdeano: En la en la lógica de Nacho la línea no sale de venta autorizada, sale de autorización comercial vuelve para arriba y está bien lo que dicen esto está mal el diagrama.
+18:52 Eugenia Massip: Bien, entendí.
+18:53 joaquin Martinez Navarro: claro
+18:54 Alberto Galdeano: La autorización comercial o la autorización crediticia es la que te vuelve para arriba, no la la venta o el pendiente o la venta autorizada pendiente.
+19:05 Eugenia Massip: Bien.
+19:05 joaquin Martinez Navarro: Yo les digo la verdad.
+19:05 Alberto Galdeano: Por eso Volver al tuyo Volver al tuyo que entre los dos, lo podemos complementar un toque pedido de venta está bien arranca con un pedido de venta lo que sí podemos hacer nosotros es Che un pedido de venta y abajo ponerle pendiente autorización comercial pendiente de autorización financiera entiende una vez que haces la autorización comercial abajo. Le podemos poner pedido de venta pendiente de autorización financiera chiquitito bien. Una vez que haces la autorización financiera periodo de venta autorizado y va la factura de venta como
+19:45 joaquin Martinez Navarro: O sea, el hay una acción Beto que es autorizar o rechazar esa es la realidad, vos entras a una ventana donde tenés todos los pedidos de venta y o los autorizas o los rechazás es como una se abre en dos caminos.
+19:58 Alberto Galdeano: Por eso Si venís al que yo había armado, andate al que yo había armado. Al dibujito, pero yo había pasado un dibujito que lo había hecho con una
+20:07 Eugenia Massip: a ver
+20:10 Alberto Galdeano: guía.
+20:13 joaquin Martinez Navarro: Sí eso es muy posterior los tirones de grupos euge los tirones en nuestro
+20:13 Eugenia Massip: acá modelo
+20:17 joaquin Martinez Navarro: grupo.
+20:18 Eugenia Massip: no
+20:19 Alberto Galdeano: no
+20:19 joaquin Martinez Navarro: no no no no porque fue mucho Después
+20:21 Eugenia Massip: A ver, come la comida la bajé.
+20:23 Alberto Galdeano: En el grupo en el en el en el dibujito yo le había puesto el estado, que creo que es eso que me parece que está bueno, subí un minuto más arriba.
+20:33 Ignacio Carnevale: Le pusiste posición y estado o le puso?
+20:39 joaquin Martinez Navarro: Pero para qué nos sirve Beto eso como pedido pendiente rechazar es como
+20:44 Alberto Galdeano: Porque es lo que están haciendo ellos lo mismo son las acciones.
+20:46 joaquin Martinez Navarro: Sí, las acciones los trámites.
+20:52 Eugenia Massip: este
+20:52 Alberto Galdeano: entonces ves pedido de venta bien, pero ese pedido de venta el estado que tiene todavía es pendiente de autorizar comercial pendiente de autorizar Financiero Autorizaste comercial pedido de venta pendiente de autorizar financiero seguir
+21:15 joaquin Martinez Navarro: Financiero
+21:18 Alberto Galdeano: el estado en el que en el que está el documento está pendiente de autorizar se entiende Cuál es el estado del documento. Cuando cuando llegué a los dos Está autorizado.
+21:35 Eugenia Massip: Pendiente a facturar o remitir?
+21:37 Alberto Galdeano: En qué estado está? no es el trámite ellos le llaman el La tarea sería En qué estado está la tarea.
+21:57 Eugenia Massip: Que silencio no los veo.
+22:03 Ignacio Carnevale: Yo entiendo que lo que dice vendedor comercial depósito administración esas son áreas que quiero entender el idioma que estamos hablando, no?
+22:11 joaquin Martinez Navarro: Sí, son sectores, se llaman.
+22:13 Alberto Galdeano: Lo de arriba van a ser sectores en la lógica de ellos.
+22:17 Ignacio Carnevale: La posición qué significaría ese colorcito?
+22:21 Alberto Galdeano: Posición es la posición que la hijo le mandé una una nota de la ia vos podés
+22:28 joaquin Martinez Navarro: el stock
+22:31 Alberto Galdeano: tener tres posiciones posición comercial posición contable o posición física. Que para mí es parte de lo que tenemos que poner en el en un manualcito en algún lado bien. posición comercial es
+22:49 Eugenia Massip: esto
+22:50 Alberto Galdeano: Un pedido de venta que es un compromiso de venta solamente tiene posición comercial no tiene todavía no generó ni posición contable ni física. una factura de venta Estoy contabilizando algo, tiene posición contable, vendí vendí y facturé entiende y una un remito de mercadería genera posición física te entregué mercadería que tenía en el galpón. Ahora no la tengo más. Entonces me comprometí con vos a venderte algo posición comercial te hice la factura de ese algo que me comprometí a Posición contable te entregué lo que me comprometí a venderte y te facturé posición física se entiende.
+23:43 Ignacio Carnevale: Sí, En qué ayuda.
+23:43 Alberto Galdeano: Ahora estas pueden ocurrir estas pueden ocurrir también en distintos momentos, yo puedo en el caso del arte y puedo entregar mercadería sin posición física y contable.
+23:57 Ignacio Carnevale: Cómo vas a entregar sin posición física No entendí.
+23:59 Alberto Galdeano: Sí porque remití sin haber hecho un pedido de venta y sin haber hecho una factura.
+24:05 Eugenia Massip: tenés tenés stock físico
+24:06 Alberto Galdeano: Porque el negocio es así Nacho yo puedo entregar mercadería, vos venís, vos, venís a mi galpón, yo te doy glifosato todavía no hice ni el pedido de venta ni la factura puede pasar si pasa.
+24:18 Ignacio Carnevale: Bueno pero ese físico lo que está haciendo lo que está sucediendo en físico pero no
+24:22 Alberto Galdeano: Puede ser que arranque por el físico yo te hice el Caminito feliz arranca por el comercial sigue por el contable, sigue por el físico Ese es el camino feliz, pero el Naty No todos son felices, digamos, puede arrancar por el físico seguir por el sigue por el comercial y después va al contable.
+24:41 joaquin Martinez Navarro: Discúlpenme lo tengo de interrumpir. Soy un genio. Soy genio un genio un genio.
+24:48 Eugenia Massip: Y Modesto Qué hiciste a ver.
+24:50 joaquin Martinez Navarro: Le dije que me había olvidado el pin, me lo restableció y me mandó un código que era solo números y los números me andaban ya pude entrar.
+25:00 Eugenia Massip: llorar
+25:03 joaquin Martinez Navarro: No sé después si una vez que salga no sé si vuelvo a entrar, pero por lo menos ahora y las letras andan.
+25:08 Eugenia Massip: Paco volvió a la reunión, lo recuperamos.
+25:11 Alberto Galdeano: Ahí viene Míster empatía, estaba pelotudeando con otra cosa en vez de dar una vuelta a nosotros, pero no importa esa es la empatía que me caracteriza.
+25:16 joaquin Martinez Navarro: Estaba con las dos cosas. Gracias chicos Pero Nacho había dicho que me ocupe de esto primero yo Los dejé seguir a ustedes mientras me ocupaba, esto eso es un equipo love you.
+25:28 Eugenia Massip: claro
+25:31 Ignacio Carnevale: El que sabía que iba a pasar eso, así que si quisiera poner otra cosa, sabía que te ibas a pasar otra cosa.
+25:35 Alberto Galdeano: Esa es la vamos Esa es la la posición Nacho Esa es la posición, no toda no todos los van a tener posición.
+25:44 Ignacio Carnevale: escúchame la pregunta porque
+25:45 Alberto Galdeano: todos los que toquen Mercaderías stops van a tener posición No todos van a tener posición.
+25:54 joaquin Martinez Navarro: yo hablaría de un stock comercial, o sea, donde donde
+25:58 Ignacio Carnevale: perdónaco, porque estamos avanzando, Yo quiero hacer Preguntas porque avanzan Y si tengo que entender se me y no le puedo levantar la mano porque
+26:07 Alberto Galdeano: Para un minuto quédate un minuto Mira fíjate.
+26:08 Ignacio Carnevale: No, no, no, no quiero preguntar quiero preguntar.
+26:12 joaquin Martinez Navarro: la prioridad la tiene Nacho porque
+26:13 Alberto Galdeano: Dale
+26:13 Ignacio Carnevale: Por Dios Qué difícil que conversar con ustedes muchachos porque empiezan a hablar hablar y hablan entre ustedes y yo no sé Pau pero yo quedo afuera de
+26:19 joaquin Martinez Navarro: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI. https://tactiq.io/r/transcribing
+26:22 Ignacio Carnevale: toda conversación insequi c***** están hablando.
+26:25 joaquin Martinez Navarro: tenés que gritar
+26:26 Ignacio Carnevale: No, perdón, por lo que pensé para qué no no digo que no solamente quiero
+26:28 Alberto Galdeano: Yo voy.
+26:37 Ignacio Carnevale: saber para qué no vamos a esforzar en esta clasificación de posiciones, para qué qué utilidad práctica tiene?
+26:47 joaquin Martinez Navarro: tiene razón Nacho
+26:49 Alberto Galdeano: No, nosotros tenemos que capacitar también.
+26:49 Ignacio Carnevale: Dale
+26:52 joaquin Martinez Navarro: Okay pero
+26:52 Alberto Galdeano: Entonces cuando yo te capacito te estoy diciendo Fíjate que tenés que ir a que tu acción está generando una posición comercial no sea boludo hacerla Bien fíjate que tu acción está generando una posición contable, fíjate chequeala, hacélala bien, Fíjate que
+27:11 joaquin Martinez Navarro: Yo creo que esto Me parece que eso para usuarios como vos y yo como Juan y con él y como elvio, estoy re de acuerdo, me re sirve. Me parece que esto es muy útil a nivel en la etapa en la que estamos a un usuario final. Tengo mis dudas, yo creo que que el el 70% de los usuarios finales no entienden esto y no lo van a entender nunca en su vida.
+27:40 Ignacio Carnevale: Me parece lo más.
+27:40 Alberto Galdeano: Sí pero el usuario el usuario final nuestro final final nuestro es Agustín Agustín Ana y
+27:52 joaquin Martinez Navarro: ok Bien.
+28:02 Alberto Galdeano: Emi no, entonces déjanos que que seamos un poquito vendedores acá.
+28:04 joaquin Martinez Navarro: comerciales
+28:12 Ignacio Carnevale: vendedores la palabra
+28:14 Alberto Galdeano: Es más juaco cuando cuando le contamos esto a Gaby terramar, Ah Mirá lo
+28:15 Ignacio Carnevale: Yo tenía otra.
+28:24 Alberto Galdeano: compró boludo para él a él lo sorprendió vos te cagas de risa, pero a él nos sorprendió y y Cuanto más podamos sorprender con esto mejor.
+28:32 joaquin Martinez Navarro: obvio
+28:33 Paula Garre: Igual sería el cliente final, pero no el usuario ellos no van a ser usuarios de esto.
+28:39 Ignacio Carnevale: Hagamos esa distinción si lo vamos a poner a esto yo no lo mostraría como dice, joaco, al al usuario no al cliente final pero el usuario el que tiene que usarlo si además de su cabeza tiene que aprenderse caminitos de flujo que que nunca en su vida vio que sabe que tiene que traducirlo a eso lo que está haciendo Y además le metemos la configuración nada, lo pongamos ya está después después vemos cómo lo podemos activar Desactivar Mostrar o Mostrar pero nada esa discusión ya está avanzaría ahora.
+29:10 joaquin Martinez Navarro: Ok solo un comentario Nacho que no te no seamos No te encierres en que tiene que ser con este formato capaz que vos decís juaco me parece mucho más claro jugar con los colores y esa columna no ponerla no sé.
+29:25 Ignacio Carnevale: No te preocupes que nos vamos con pausa, ya tenemos trabajo.
+29:28 joaquin Martinez Navarro: Bien, pero son tres posiciones no es física contable o comercial. Con una aclaración hay ciertas acciones que pueden tocar las dos que pueden tocar varias de las tres. No necesariamente es única.
+29:48 Ignacio Carnevale: Ok y lo otro del Estado para entender porque veo que después arme un arco iris O sea hay 700.000 estados.
+29:58 Alberto Galdeano: No, no sé por qué quedó así los colores, no tengo ni idea Nacho porque le
+29:59 Eugenia Massip: En el estado que pasa.
+30:02 Alberto Galdeano: metió colores.
+30:03 Ignacio Carnevale: No digo porque si vos después mete una clasificación o una segmentación que es tan amplia y tan basta como la cantidad de situaciones que hay para qué clasificas no tiene ningún sentido al contrario. Estás complejizando el estado
+30:16 Alberto Galdeano: No, no, pero yo le tiré.
+30:18 Ignacio Carnevale: buenísimo Che veamos la forma de resumir el estado para entender Si lo que te tiene que pasar es un proceso de autorización tipo Racing si un tema de autorización si un tema de información si un tema de de consulta es un tema de responsabilidad que se yo, por ejemplo.
+30:36 Alberto Galdeano: Me quedé sin no le dediqué mucha Ya esto es como me lo pasó seguramente.
+30:38 Eugenia Massip: perdón
+30:43 Ignacio Carnevale: nada si era no, no
+30:50 joaquin Martinez Navarro: Ahí.
+30:51 Alberto Galdeano: Lo que sí, fíjate que de alguna manera todo este quilombo de algoritmo lo hace mucho más sencillo.
+30:59 joaquin Martinez Navarro: Eso sí, ahí euge, vos tenés un una captura de pantalla de del workflow, como lo como lo como lo escriben en algoritmo. Porque esos son las tareas y los Estados
+31:15 Eugenia Massip: no No, Y eso se lo pedimos. Te acordás se lo pedí.
+31:20 joaquin Martinez Navarro: Okay claro modificar venta es una acción que sale de venta, no autorizada, por
+31:20 Alberto Galdeano: Pero eso es lo que habían dicho acá que que van a tener los mismos nombres.
+31:31 joaquin Martinez Navarro: ejemplo.
+31:32 Eugenia Massip: Sí eso me dijo porque no podía tener acceso por detrás, pero sí podía, o sea, esto estaba replicando. Me dijo, déjame que te lo prolijo. Te pongo lo mismo nombres y esto es lo que usamos para diseñar listo es esto.
+31:44 joaquin Martinez Navarro: Okay.
+31:46 Alberto Galdeano: Para mí chicos en los Estados en los Estados van esos nombres que están en verde. Está bien. Pero pero en el pero para el para el para el usuario que tenemos que capacitar nosotros. Nos va a encontrar en ningún lado en el sistema, una venta pendiente autorizar va a encontrar un pedido de venta.
+32:13 Eugenia Massip: Exacto Estos son estados.
+32:15 Alberto Galdeano: Entiende juaco todos estos verdes son estados entonces van a la en mi lógica
+32:18 Eugenia Massip: Son estados.
+32:21 joaquin Martinez Navarro: Yo coincido y dónde están los documentos acá.
+32:21 Alberto Galdeano: mental van a la derecha. No están los documentos.
+32:27 Eugenia Massip: No, no son los documentos.
+32:29 Alberto Galdeano: entonces
+32:30 joaquin Martinez Navarro: claro
+32:32 Alberto Galdeano: nuestro workflow es de documentos y los documentos van cambiando de Estados se entiende se entiende Nacho
+32:39 joaquin Martinez Navarro: Sí estoy de acuerdo, estoy de acuerdo. bueno, qué más Nacho
+32:48 Alberto Galdeano: Entonces perdón entre los dos workflow con los estados que están acá con los estados que están acá y con nuestro workflow de documentos tenemos que armar el workflow de documentos con los Estados Que es algo que es algo que es lo que yo traté de armar ahí en ese que les pasé que que es recontra caserito y sin dedicarle mucho tiempo.
+33:15 joaquin Martinez Navarro: Sí sí, El tuyo va más a formato y a la estructura general que ha Sí, qué más anteojos mientras?
+33:25 Eugenia Massip: documentos de estado y acciones
+33:27 Ignacio Carnevale: Lo que me queda para saber es fechas y cuáles son los temas concretos que tenemos que cerrar, para qué fecha?
+33:38 Alberto Galdeano: todos los de insumos
+33:41 Ignacio Carnevale: Okay.
+33:42 Alberto Galdeano: los Tenemos que tener para mayo
+33:47 joaquin Martinez Navarro: Para para el primero de mayo.
+33:49 Eugenia Massip: Para ello nos pasaron esto nada más.
+33:55 joaquin Martinez Navarro: Yo creo que si te parece Me parece a ver qué opinan como que un primer objetivo es tener uno el modelo, no como cerrar el modelo.
+34:03 Eugenia Massip: sí
+34:07 joaquin Martinez Navarro: decir Che vamos a usar esto yo creo que
+34:09 Ignacio Carnevale: Pongamos una fecha para para eso juaco.
+34:14 joaquin Martinez Navarro: cuánto tiempo te parece Nacho Razonable para para que lo que imponemos no, yo no quiero que la unes al pelo viste no no Vení con un borrador.
+34:24 Ignacio Carnevale: No, no hay un momento de exploración, joaco. Eso sí lo tengo claro.
+34:29 joaquin Martinez Navarro: sí Venite con un borrador así lo cascoteamos no te vengas con un producto final
+34:33 Ignacio Carnevale: Dale yo lo que sí me imagino es después de que tenga la reunión de las Beto el 22
+34:46 Eugenia Massip: Cuándo? es
+34:50 Ignacio Carnevale: Que ahí deberíamos tener cerrado tu cabro. Y arrugas.
+34:57 Eugenia Massip: Y así no vos.
+35:00 Alberto Galdeano: Sí sí, yo te dije que nosotros necesitamos el primero de mayo con lo cual. Si arrancamos el 23 y lo terminamos en 30 perfecto, yo te doy una mano con este primero, si querés con uno de los circuitos y juaco y euge nos nos corrigen, les parece.
+35:19 Eugenia Massip: Pero como para cuando cuando arranquen el 23 y nos dicen cómo vienen así. Yo pongo una reunión para que lo revisemos por eso para hacer el borrador.
+35:29 Ignacio Carnevale: Sí, 23, presentaríamos la Mira vamos a usarlo así.
+35:33 Eugenia Massip: Ah bueno para el 23 ya lo tendrías el borrador. genial
+35:38 Ignacio Carnevale: A partir de 23 tendría que tener, no miento claro.
+35:44 Paula Garre: El 23 es el una semana chicos?
+35:46 Eugenia Massip: por eso
+35:47 Alberto Galdeano: No, la semana de la semana siguiente al 23, la del 30, esa la tendríamos que terminar de armar.
+35:55 joaquin Martinez Navarro: Pero ahí tendrías que tener todos los escenarios.
+35:58 Alberto Galdeano: De compra y venta de insumos, qué es lo que vamos a testear primero?
+36:02 joaquin Martinez Navarro: Sí sería clave si pudiésemos tener cerrar el modelo la semana que viene. Y todos los contenidos la otra. Cómo lo ven a eso?
+36:12 Alberto Galdeano: Yo creo que el modelo de la semana que viene lo cerramos.
+36:16 joaquin Martinez Navarro: Bien, perfecto y ahí.
+36:20 Eugenia Massip: Necesito hacer preguntas
+36:22 joaquin Martinez Navarro: Sí yo sí hay una cosa que es clave también que no me quiero olvidar perdón y te dejo que es Beto Para bajarle un mensaje claro, a los chicos vos Te imaginás, hay, o sea, se me plantea una duda, en qué hacer con cuando es cuenta y orden por ejemplo y cuando es propio. Digo en las situaciones en las cuales es un mismo workflow en el sistema.
+36:53 joaquin Martinez Navarro: Pero es un escenario totalmente distinto entonces La pregunta es vamos a documentar por workflow o vamos a documentar más por escenario.
+37:02 Alberto Galdeano: Yo para mí estás hablando de dos escenarios muy diferentes entonces. Me parece que meterlo todo en un workflow va a ser un chino porque los estados son distintos el workflow capaz, que es el mismo, pero los estados son diferentes.
+37:25 joaquin Martinez Navarro: Porque ellos lo tienen en el mismo me parece euge a vos, no te pasaron. Es el mismo porque está la liquidación el líquido producto, estaba ahí al costado. pero para mí termina siendo demasiado por ahí, nosotros podemos nombrarlos como este es el Es el mismo World Flow Pero tenemos el escenario a y el escenario B por ejemplo.
+37:52 Alberto Galdeano: Sí hasta acá es igual y después cambia.
+37:52 Eugenia Massip: sí Para mí súper engorroso meter todo junto entendés.
+37:58 joaquin Martinez Navarro: Y terminas en el vicio.
+37:58 Eugenia Massip: Es menos, claro.
+38:01 joaquin Martinez Navarro: Yo coincido, pero tenemos que Nacho haberte lo traduzco Entendiste o sea, es así hay un solo pedido de venta, es un solo documento yo entro al sistema hoy y cargo un pedido de venta, Sí ahora dentro de ese pedido de venta puedo darle un tilde y decir esto es una venta tradicional o puedo darle otro tilde en otro lado y decir esto es una venta por cuenta de orden. Todo lo que sigue después.
+38:36 joaquin Martinez Navarro: Es bastante diferente según que cuál de las dos opciones, elija, ahora todo nació de un mismo para el sistema es un mismo workflow que tiene distintas ramas y se va se van separando eso para documentarlo ustedes es un gran desafío, Porque si vos ponés todos juntos terminas en algo medio parecido que ese servicio ese ese esa imagen que vimos que es un que es un quilombo. Entonces yo creo que o sea que planteaba y un poco los chicos están de acuerdo Es decir de alguna manera. Nosotros vamos a decir que este es el escenario uno el escenario dos y el escenario tres todos estos nacen de este mismo lugar, pero te voy a mostrar tres imágenes distintas porque si no es un quilombo o salvo que usemos tipo, cómo se llama?
+39:24 Ignacio Carnevale: que se va desplegando que voy a hacer más y
+39:28 Eugenia Massip: White y otra pregunta que tengo sobre eso que creo que puede llegar a definir es qué queremos ver en el doble clic de cada uno de los documentos barra estados O sea qué le queremos Mostrar porque eso también va a ser lo engorroso o lo pesado que puede hacer cada Word Flow y también va a depender un poco de lo que le tenga que pedir a elvio, por eso quería hacer esa pregunta.
+39:52 Ignacio Carnevale: Mira lo que mira lo que me imagino que vos decís Che tengo una venta es en efectivo por cuenta y orden, entonces vos tildas la opción y que se te abra ese caminito no se te Abre todo, se te va abriendo el Caminito que vos vayas eligiendo Pero eso sería.
+40:06 Eugenia Massip: Y qué le vamos a agregar a eso las pantallas del sistema
+40:10 Ignacio Carnevale: No no es un caminito así pero que en vez de ser estático y fijo como está eso vaya haciendo armar tu propia Aventura que vos lo vas a Gris vas a responderte abre el Caminito
+40:22 Eugenia Massip: No, pero le pregunto a ver lo que yo te estoy preguntando.
+40:25 Alberto Galdeano: El mismo pedido de venta puede disparar los dos caminos?
+40:28 Ignacio Carnevale: Podés y podés y bueno podés abrir los dos y lo que desplegar todo desplegar algunos entendés.
+40:37 joaquin Martinez Navarro: Cómo se llama tabló, te habló vieron ese para presentar.
+40:42 Ignacio Carnevale: te habló es un Vial
+40:46 joaquin Martinez Navarro: Ay no, pero hay uno que usábamos para hacer presentación en la facultad que era como que sí Pero no sé, no sé.
+40:57 Alberto Galdeano: Pero no, pero es la es lo que está diciendo Nacho como vas abriendo, vas
+40:59 Eugenia Massip: ese
+41:02 joaquin Martinez Navarro: Dinámico
+41:03 Alberto Galdeano: abriendo, vas abriendo?
+41:05 Ignacio Carnevale: un html
+41:06 Eugenia Massip: Perdón, y nosotros queremos nosotros queremos Mostrar pantallas, eso pantallas
+41:08 Alberto Galdeano: Lo que sí lo que sí está bueno, lo que decía euge de cuando hago cuando hago
+41:12 Eugenia Massip: del sistema.
+41:13 Alberto Galdeano: clic en el globito pedido de venta Mostrarme a la derecha, la captura de pantalla de globito de venta y las dos o tres cosas que hay que registrar, digamos.
+41:24 joaquin Martinez Navarro: Cada acción te tiene que Mostrar la ventana donde vos haces esa acción.
+41:29 Eugenia Massip: Me encantaría saber que vamos a poner en condición de pago y financiación del pedido de venta. Ahí hice un papiro.
+41:41 Alberto Galdeano: Nada, pero ahí me parece que está más enroscado Juan que el océano de la gente de algoritmo. no lo terminó de entender Juan
+41:49 Eugenia Massip: No, y me parece que tampoco elvio, lo tiene muy claro como para saber que bajar entonces.
+41:55 joaquin Martinez Navarro: Bueno pero no importa
+41:55 Alberto Galdeano: Lo que pasa que vienen con un paradigma de que no hay condición financiera y
+41:58 Eugenia Massip: sí
+41:59 Alberto Galdeano: que no hay condición comercial
+42:00 Eugenia Massip: Vamos a enfocarnos nada más en Mostrar la pantalla de mostrar la pantalla del pedido de venta y marcar lo que se tiene que completar mandatoriamente para generarle un punto.
+42:11 joaquin Martinez Navarro: Para no es un manual del usuario final.
+42:14 Eugenia Massip: Eso estaba preguntando, gracias.
+42:18 joaquin Martinez Navarro: No es orientativo la pantallita después en agosto sigamos laburar en eso seguramente si Beto se lo logra vender.
+42:26 Eugenia Massip: Ah okay.
+42:29 Alberto Galdeano: Yo lo que quiero que no lleguemos a agosto sin un modelo validado con ellos, porque después no vamos a tener tiempo de ajustar si podemos mostrarles.
+42:37 Eugenia Massip: Bien.
+42:42 Alberto Galdeano: Una una un diagrama y Y cómo nos imaginamos el diagrama tenemos tiempo a que nos digan no esto no me gusta no no lo quiero o Che Qué bueno sigamos en este camino.
+43:00 Eugenia Massip: Bueno, pregunta puntual, para cuándo nos reunimos para ver el borrador?
+43:03 joaquin Martinez Navarro: Seamos para que tenga una cosa clave también Beto seamos explícitos en Cuáles son los objetivos de esto.
+43:13 Alberto Galdeano: para mí lo que tenemos, por qué empezamos a documentar ahora para para tener un camino Y poder validarlo con ellos. Un camino y validarlo con ellos.
+43:37 joaquin Martinez Navarro: A qué te referís con un camino?
+43:41 Alberto Galdeano: O dos caminos Dos caminos Es un trámite o dos trámites del Quiero el de compra de insumos El de venta de insumos. el workflow Y en cada una de las partes del workflow donde hay que tomar alguna decisión o alguna registración la captura de pantalla de lo que tenés que hacer en el sistema.
+44:13 joaquin Martinez Navarro: También, pero ese es el que Pero la pregunta es el para. Qué O sea acá lo que queremos, es que compren.
+44:19 Alberto Galdeano: Para qué Para que ellos me digan Che Dale seguí en esta línea que me gusta, está buenísimo, nos va a ser muy fácil implementar con esto.
+44:30 joaquin Martinez Navarro: OK Pero no es venderles después una capacitación final para el usuario interactiva y la mano en coche digo para que Nacho y Paula lo tengan en La si es un anzuelo o no es un anzuelo?
+44:44 Alberto Galdeano: Es que nosotros tenemos que capacitar al usuario final junto con eso.
+44:50 joaquin Martinez Navarro: Sí pero la parte de documentación no era no es parte de esta etapa para el usuario final te estoy hablando Te acordás que quedamos en hablarlo.
+45:04 Alberto Galdeano: No, no, nosotros tenemos que capacitar, tenemos que acompañar la capacitación del usuario final en la manera más didáctica posible que claramente no es la de algoritmo.
+45:18 joaquin Martinez Navarro: No pues ahí Tenemos una gran lo que digo es que capaz que podemos hacer una muestra gratis es como la primera vez que les documentamos un circuito para mostrarle de qué iba podemos hacer algo bien piola para que digan Uy qué bueno va a estar Cuando esto lo tengan para el usuario final y que sea bien interactivo y que hace un poco de magia.
+45:35 Alberto Galdeano: Eso es lo que te estoy diciendo que qué fácil nos va a ser implementar con esto. Eso es lo que quiero decir.
+45:42 joaquin Martinez Navarro: perfecto
+45:42 Alberto Galdeano: Porque al final de cuentas. Los que van a capacitar. Van a ser él y Juan y Mati entonces para ellos tiene que ser fácil a ellos son
+45:51 joaquin Martinez Navarro: Bien.
+45:58 Alberto Galdeano: los que tenemos que ayudar. Vos Fijate que elvio va a las reuniones con el manual nuestro. Ya lo ayudamos.
+46:09 joaquin Martinez Navarro: sí
+46:10 Eugenia Massip: Ya, ya casi se lo tiran por la cabeza también.
+46:12 Alberto Galdeano: Y ayer se le dijo a Luciano Fijate no Juan le dijo a Luciano en la reunión, Fíjate que esto está en el manual no lo estudiaste ni sabía dónde lo tenía.
+46:23 Eugenia Massip: Les dije Dónde dónde En cuál que dice tal cosa hubieses estado a otro miraban todos boxeados.
+46:34 joaquin Martinez Navarro: Bien, bueno, entonces es un poco de un poco, no? De digo tiene que ser un poco intuitivo para los usuarios que no están muy bien metidos en esto para que
+46:45 Eugenia Massip: Y un poco lo que le habíamos ofrecido a elvio, era que si teníamos una pequeña introducción O sea que le sirva de guía a él para estos chicos que no con los que nos juntamos que le vamos a empezar a pedir que te esté en algunos casos, no como que tiene que ser medio introductorio al sistema nuevo, por eso también decíamos lo de meter las pantallas para que entiendan un poco.
+47:04 joaquin Martinez Navarro: Bien, bueno, bien Perdón que te había cortado hoy que ibas a decir algo unas
+47:09 Eugenia Massip: No, no quería saber porque sí, que así duplicó me fijo agenda y ya nos pongo
+47:09 joaquin Martinez Navarro: preguntas claves para cuándo?
+47:14 Eugenia Massip: nos agendo una hora, pero que me diga Nacho para qué fecha podríamos tener un borrador y yo miro la agenda y ya nos bloqueo a los a los cinco. Esta es la parte donde Paula mira y sonríe viendo qué iba a decir macho.
+47:31 Alberto Galdeano: jueves dentro de 15 días jueves que viene no el otro
+47:33 Eugenia Massip: Pero el otro es el 30, no dijimos que tenemos que tener todo para el primero el día siguiente es primero.
+47:39 joaquin Martinez Navarro: Está como algoritmo.
+47:42 Ignacio Carnevale: sí
+47:45 Alberto Galdeano: Espero en que no va a estar cerrado.
+47:51 Eugenia Massip: como me digan es para saber así yo ya lo agendo vos dijiste que los querías
+47:54 joaquin Martinez Navarro: Porque no Beto para recalculemos.
+47:55 Eugenia Massip: con el primero de
+47:58 Ignacio Carnevale: 24 de abril
+48:00 joaquin Martinez Navarro: Hagamos una cosa Beto no tenemos que tener todos los troceamos, seamos
+48:01 Eugenia Massip: bueno, está bueno Nacho
+48:05 joaquin Martinez Navarro: razonables, vos el primer macho, no tenés que tener todo cerrado insumos para sentarte con los de agroleven con un escenario con uno Vamos a la primera reunión y le mostramos el documento de uno Tenemos que tener cerrado uno, sí o sí.
+48:23 Alberto Galdeano: Eso es lo que digo para el 24 vamos a tener cerrado uno.
+48:26 Eugenia Massip: Bien, así lo vemos así laburamos sobre eso o no.
+48:30 joaquin Martinez Navarro: no Beto si el 24 y la semana que viene
+48:33 Paula Garre: claro, el 24 es en una semana, o sea el primero lo tenemos que trabajar nosotros
+48:35 joaquin Martinez Navarro: y tenés
+48:37 Alberto Galdeano: para
+48:40 Paula Garre: y
+48:44 joaquin Martinez Navarro: Para el primero necesitamos uno cerrado.
+48:46 Alberto Galdeano: Cerrado No para el 24 les podemos demostrar uno, Perdón yo me estoy confundiendo para el 24 les podemos Mostrar el primer diseño a ustedes para
+48:55 Eugenia Massip: Claro, eso nos juntamos eso quiero quiero contar la próxima para ver el
+48:55 joaquin Martinez Navarro: claro
+48:55 Alberto Galdeano: poder ajustarlo al jueves 30.
+48:58 joaquin Martinez Navarro: eso
+49:00 Eugenia Massip: borrador por eso, pero le quiero contar a Nacho para cuándo tendría ese borrador así yo ya no reservo y de ahí vemos cuando nos vemos de nuevo la semana siguiente.
+49:06 Paula Garre: Pero Beto te hago una A ver, no se lo puedes mostrar a ellos. Si nosotros no lo trabajamos primero primero nosotros después le decimos Esta es la propuesta
+49:14 Ignacio Carnevale: Pero entiendo.
+49:14 joaquin Martinez Navarro: No, para es así.
+49:17 Paula Garre: nuestra a nuestro criterio final tampoco ojo ahí, Qué le van a dar la libertad
+49:23 Alberto Galdeano: Me estoy expresando mal con Nacho y yo el 24 le mostramos a ustedes lo que
+49:24 Paula Garre: completa de decirle de que ellos digan cada uno lo que opinan y que eso no se
+49:29 joaquin Martinez Navarro: No hagamos esto.
+49:30 Paula Garre: entiende para mí no es así.
+49:37 Alberto Galdeano: pensamos.
+49:38 Paula Garre: Ah okay.
+49:39 Eugenia Massip: interna interna
+49:40 Alberto Galdeano: para poder el jueves 30 tener uno a dos circuitos cocinados
+49:46 Paula Garre: la propuesta
+49:47 Eugenia Massip: Bien, para yo voy a agendar un espacio Pero puede que lo lleve a mover porque tenemos que definir todavía la doble reunión con algoritmo que va a ser el viernes también. Reservo tentativamente y veo que hacemos, sí.
+50:02 Alberto Galdeano: Bien, el 24 tenemos reunión de equipo. Nosotros acuérdense.
+50:05 Eugenia Massip: A qué hora no la veo? No, de ocho no y media.
+50:10 joaquin Martinez Navarro: En la tarde.
+50:11 Eugenia Massip: Ah a la tarde Sí a la tarde no, no le va a poner a las 11 una hora de once a doce que ahí tenemos hueco todos. Pero por eso digo tengo que definir todavía los horarios de la reunión con
+50:20 Alberto Galdeano: Bien.
+50:20 Eugenia Massip: algoritmo, por eso puede que esto la tenga que mover la gente y veo.
+50:27 joaquin Martinez Navarro: Muy bien, estamos chicos.
+50:31 Eugenia Massip: Yo necesitan Dónde está guardado algo.
+50:32 Alberto Galdeano: tres y media puede ser
+50:40 Paula Garre: tres y media Tres y media la pasó la reunión Bueno ahí la paso.
+50:45 Alberto Galdeano: tres y media porque tengo llevar a Lucía el cumpleaños de hija del voche a
+50:52 Ignacio Carnevale: mucho dato
+50:52 joaquin Martinez Navarro: Mándale un saludo al bocha Chao, chicos, love you pará euge para Nacho Nacho y quieren los liberamos euge
+50:59 Ignacio Carnevale: Chao.
+51:00 Eugenia Massip: bueno, necesitan rutas de algo Rutas para
+51:06 Paula Garre: bueno
+51:07 joaquin Martinez Navarro: tema mail semanal y tema.
+51:09 Eugenia Massip: Por qué nunca me puedo ir de las reuniones?
+51:12 joaquin Martinez Navarro: Porque tenés pendientes mucho pendientes.
+  
